@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "acorn": "^6.1.1",
+    "deploy": "^1.0.3",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
